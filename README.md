@@ -16,5 +16,6 @@ The problems I care about are the ones that show up in practice: IAM roles with 
 ### Projects
 
 - [tls-cert-checker](https://github.com/saisravanth-sajja/tls-cert-checker): checks TLS certificates across a list of hosts and flags the ones that are expiring or untrusted
+- [domain-watch](https://github.com/saisravanth-sajja/domain-watch): a scheduled GitHub Action that opens an issue when your DNS records change, a new certificate for your domain shows up in CT logs, or a cert or registration is about to expire
 
 Open to cloud security and security engineering roles. You can reach me on [LinkedIn](https://www.linkedin.com/in/saisajja2059/).
